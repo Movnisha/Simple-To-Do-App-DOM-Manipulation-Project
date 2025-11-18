@@ -48,3 +48,19 @@ Simple-To-Do-App-DOM-Manipulation-Project/
 ├── style.css       # Stylesheet
 ├── app.js          # JavaScript for DOM manipulation and functionality
 └── README.md       # Project documentation
+```
+
+## 📌 How to Use
+
+1. Type your task in the input field and press **Enter** or click the **Add button**.
+2. Click the **checkbox** next to a task to mark it as completed.
+3. Use the **delete button** to remove tasks.
+4. Filter tasks using the **All / Completed / Uncompleted** buttons to organize your workflow.
+
+## 💡 What I Learned
+
+- How to manipulate the DOM dynamically using **JavaScript**.
+- Handling user input and updating the UI in real time.
+- Creating a simple state management system without libraries.
+- Implementing task filtering and basic interactivity.
+- Best practices for structuring a small front-end project.
